@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Venkatraman Viswanathan 👋
 
-<!--
-**VenkyRaju708/VenkyRaju708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-Driven Enterprise Decision Intelligence professional with expertise in Enterprise Systems, AI-enabled Platforms, Project Management, and Digital Transformation.
 
-Here are some ideas to get you started:
+## Professional Credentials
+- PMP® (Project Management Professional)
+- IEEE Senior Member
+- Fellow of the Royal Society of Arts (FRSA)
+- Fellow of IETE (FIETE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Role
+Service Delivery Manager @ Novalink Solutions LLC
+
+## Areas of Interest
+- Agentic AI
+- Enterprise Decision Intelligence
+- Enterprise SaaS Platforms
+- Talent Intelligence
+- Digital Transformation
+- Cloud & Enterprise Systems
+
+## Professional Links
+🌐 Website: https://venkatramanlabs.com
+
+🔗 LinkedIn: https://linkedin.com/in/venkatraman-viswanathan-31985691
+
+📚 Google Scholar: https://scholar.google.com/citations?user=nkQ-kXwAAAAJ&hl=en
+
+## Focus Areas
+- AI-Augmented Enterprise Systems
+- Decision Intelligence
+- Talent Optimization
+- Project & Service Delivery Management
+- Enterprise Product Innovation
