@@ -11,7 +11,7 @@ AI-Driven Enterprise Decision Intelligence professional with expertise in Enterp
 ## Current Role
 Service Delivery Manager @ Novalink Solutions LLC
 
-## Areas of Interest
+## Expertise Areas
 - Agentic AI
 - Enterprise Decision Intelligence
 - Talent Intelligence & Workforce Optimization
