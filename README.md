@@ -14,8 +14,8 @@ Service Delivery Manager @ Novalink Solutions LLC
 ## Areas of Interest
 - Agentic AI
 - Enterprise Decision Intelligence
+- Talent Intelligence & Workforce Optimization
 - Enterprise SaaS Platforms
-- Talent Intelligence
 - Digital Transformation
 - Cloud & Enterprise Systems
 
@@ -26,9 +26,5 @@ Service Delivery Manager @ Novalink Solutions LLC
 
 📚 Google Scholar: https://scholar.google.com/citations?user=nkQ-kXwAAAAJ&hl=en
 
-## Focus Areas
-- AI-Augmented Enterprise Systems
-- Decision Intelligence
-- Talent Optimization
-- Project & Service Delivery Management
-- Enterprise Product Innovation
+## Focus
+Building AI-driven enterprise solutions that improve decision-making, talent optimization, service delivery, and business transformation.
