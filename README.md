@@ -59,7 +59,17 @@ I'm a **Technical Program Manager and AI researcher** working where enterprise s
 | 🎓 **Generative AI for Education** | Human-centred GenAI, RAG-based learning systems, voice-enabled tutoring |
 | 🏗️ **Program Governance** | Enterprise SaaS delivery, cloud platforms, digital transformation |
 
-**Selected publication** — *AI-Augmented Decision Intelligence for Enterprise Systems: Integrating Cognitive Analytics for Resource and Talent Optimization.* Journal of Information Systems Engineering and Management, Vol. 8, Issue 2 (2023). [Read on ResearchGate ↗](https://www.researchgate.net/publication/398268838_AI-Augmented_Decision_Intelligence_for_Enterprise_Systems_Integrating_Cognitive_Analytics_for_Resource_and_Talent_Optimization)
+### 📚 Selected publications
+
+<sub>Google Scholar: <b>133 citations · h-index 8 · i10-index 8</b> (October 2026) · <a href="https://scholar.google.com/citations?user=nkQ-kXwAAAAJ&hl=en">full list ↗</a></sub>
+
+| Publication | Venue | Year | Cited by |
+|---|---|---|---|
+| [AI-Augmented Decision Intelligence for Enterprise Systems: Integrating Cognitive Analytics for Resource and Talent Optimization](https://www.researchgate.net/publication/398268838_AI-Augmented_Decision_Intelligence_for_Enterprise_Systems_Integrating_Cognitive_Analytics_for_Resource_and_Talent_Optimization) | Journal of Information Systems Engineering and Management (JISEM) 8(2) | 2023 | 26 |
+| Generative AI for Smarter Workforce Planning and Enterprise Resource Decisions | Journal of Information Systems Engineering and Management (JISEM) 8(4) | 2023 | 22 |
+| Agentic AI for Employment: Reducing Unemployment through Intelligent Job-Seeker Support | Lex Localis – Journal of Local Self-Government 23(S4) | 2025 | 20 |
+| AI-Augmented Threat Intelligence for Proactive Intrusion Detection in Multi-Cloud Ecosystem | IEEE International Conference on Advanced Computing Technologies (ICACT) | 2025 | 17 |
+| A Multi-Agent Voice-Based AI System for Hybrid Learning Using RAG (Capstone Report) | Zenodo · [doi:10.5281/zenodo.23439410](https://doi.org/10.5281/zenodo.23439410) | 2026 | — |
 
 ---
 
@@ -69,7 +79,7 @@ I'm a **Technical Program Manager and AI researcher** working where enterprise s
 |---|---|
 | 📚 [**research-whitepapers**](https://github.com/VenkyRaju708/research-whitepapers) | Whitepapers & frameworks: Enterprise Decision Intelligence, Agentic AI for Enterprise Systems, Enterprise Knowledge Systems, AI-Augmented Workforce Optimization |
 | 🧭 [**enterprise-decision-intelligence**](https://github.com/VenkyRaju708/enterprise-decision-intelligence) | Research themes, objectives and architecture diagrams for AI-driven enterprise decision-making |
-| 🎙️ [**multi-agent-hybrid-learning-system**](https://github.com/VenkyRaju708/multi-agent-hybrid-learning-system) | Voice-based multi-agent learning system using RAG, FAISS and autonomous agents |
+| 🎙️ [**multi-agent-hybrid-learning-system**](https://github.com/VenkyRaju708/multi-agent-hybrid-learning-system) | Capstone research: architecture and design of a voice-based multi-agent learning system (RAG, FAISS) · [DOI](https://doi.org/10.5281/zenodo.23439410) |
 | 🌐 [**VenkatramanLabs**](https://github.com/VenkyRaju708/VenkatramanLabs) | Source for my personal site, [venkatramanlabs.com](https://venkatramanlabs.com) |
 
 ---
