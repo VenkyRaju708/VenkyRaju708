@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Venkatraman Viswanathan — AI Researcher, Founder of Infiltra Technologies">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0b1430"/>
+      <stop offset="1" stop-color="#14112e"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.82" cy="0.2" r="0.55">
+      <stop offset="0" stop-color="#4f46e5" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4f46e5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.1" cy="0.95" r="0.5">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#e8504a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glowA)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glowB)"/>
+
+  <!-- agent network motif -->
+  <g stroke="#a5b4fc" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+    <path d="M860 70 L960 120 L1060 80 L1120 150 L1010 210 L900 190 Z"/>
+    <path d="M960 120 L1010 210 M960 120 L900 190 M1060 80 L1010 210"/>
+  </g>
+  <g>
+    <circle cx="860" cy="70" r="5" fill="#06b6d4"/>
+    <circle cx="960" cy="120" r="7" fill="#6366f1"/>
+    <circle cx="1060" cy="80" r="5" fill="#a5b4fc"/>
+    <circle cx="1120" cy="150" r="5" fill="#06b6d4"/>
+    <circle cx="1010" cy="210" r="6" fill="#e8504a"/>
+    <circle cx="900" cy="190" r="5" fill="#a5b4fc"/>
+  </g>
+
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+    <text x="64" y="92" fill="#94a3b8" font-size="18" font-weight="600" letter-spacing="4">HI, I'M</text>
+    <text x="62" y="146" fill="#f8fafc" font-size="50" font-weight="800" letter-spacing="-1">Venkatraman Viswanathan</text>
+    <rect x="64" y="166" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="208" fill="#e2e8f0" font-size="22" font-weight="600">AI Researcher · Founder, Infiltra Technologies · Technical Program Manager</text>
+    <text x="64" y="244" fill="#94a3b8" font-size="17">Enterprise Decision Intelligence · Agentic AI · Generative AI for Education</text>
+  </g>
+</svg>
