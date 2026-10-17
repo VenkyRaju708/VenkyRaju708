@@ -42,7 +42,7 @@ I'm a **Technical Program Manager and AI researcher** working where enterprise s
     <td width="50%" valign="top">
       <b>Products</b><br><br>
       🧠 <a href="https://ainetro.com"><b>AINETRO™</b></a> — the all-in-one <b>HR & KPI platform</b>: Core HR, performance & KPIs, time & attendance, payroll, hiring — with AI workforce insights. <i>Intelligence Behind Every Decision.</i><br><br>
-      🏫 <a href="https://infagents.com"><b>INFAGENT</b></a> — the <b>AI-powered school operating system</b>: a branded school app and platform for communication, administration and parent engagement.
+      🏫 <a href="https://infagents.com"><b>INFAGENT™</b></a> — the <b>AI-powered school operating system</b>: a branded school app and platform for communication, administration and parent engagement.
     </td>
   </tr>
 </table>
